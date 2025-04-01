@@ -1,5 +1,5 @@
 # icatf
-Bash script for simpler displaying of images in folders using the kitty terminal emulator's icat command.
+Bash script for simpler displaying of images in folders using the kitty terminal emulator's icat command. Specifically I made this so I can easily output the names of an image next to its display.
 
 ### Installation
 Download `icatf.sh` and add the line `alias icatf = bash <path to icatf.sh>/icatf.sh` in your `.bashrc`.
