@@ -2,7 +2,7 @@
 Bash script for simpler displaying of images in folders using the kitty terminal emulator's icat command.
 
 ### Installation
-Download `icatf.sh` and add the line `alias icatf = bash <path to icatf.sh>/icatf.sh`.
+Download `icatf.sh` and add the line `alias icatf = bash <path to icatf.sh>/icatf.sh` in your `.bashrc`.
 
 ### Usage
 The command can be used with flags:
